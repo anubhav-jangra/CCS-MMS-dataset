@@ -13,7 +13,23 @@ python3 /path/to/mms_data/zip/file /path/to/new/data/directory
 
 If you use this dataset, we appreciate that you can cite our paper as well as the original paper by Li et al. [2].
 ```
-To be added after the manuscript is published.
+@inproceedings{10.1145/3404835.3462877,
+author = {Jangra, Anubhav and Saha, Sriparna and Jatowt, Adam and Hasanuzzaman, Mohammed},
+title = {Multi-Modal Supplementary-Complementary Summarization Using Multi-Objective Optimization},
+year = {2021},
+isbn = {9781450380379},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3404835.3462877},
+doi = {10.1145/3404835.3462877},
+booktitle = {Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {818–828},
+numpages = {11},
+keywords = {multi-objective optimization, data driven summarization, multi-modal summarization, grey wolf optimizer},
+location = {Virtual Event, Canada},
+series = {SIGIR '21}
+}
+
 ```
 
 Feel free to contact us (anubhav0603 at gmail.com) if you have any suggestions or questions.
